@@ -1,0 +1,13 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 16
+  "exception-reporting":
+    userId: "749c0e28-526b-4dcd-99ff-332ffbe4a1a2"
+  welcome:
+    showOnStartup: false
