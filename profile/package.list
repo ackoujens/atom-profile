@@ -3,6 +3,8 @@ atom-material-syntax@1.0.8
 atom-material-ui@2.1.1
 atom-typescript@12.0.0
 auto-update-packages@1.0.1
+autoclose-html@0.23.0
+autocomplete-modules@1.10.0
 autocomplete-paths@2.12.2
 busy-signal@1.4.3
 emmet@2.4.3
@@ -13,5 +15,6 @@ linter@2.2.0
 linter-ui-default@1.6.10
 minimap@4.29.7
 pigments@0.40.2
+platformio-ide-terminal@2.8.0
 script@3.17.3
 
