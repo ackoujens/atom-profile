@@ -1,4 +1,7 @@
 # Atom Profile
+
+Note: Stopped active development on this repository since I moved to Visual Studio Code
+
 Backups and restores your Atom profile.
 This repository keeps all my personal installed packages so feel free to fork this repo to populate it with your own.
 
